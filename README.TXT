@@ -28,3 +28,19 @@ The purpose of this project is to demonstrate and study library classes, such
 as ArrayList, HashMap, HashSet, and Random.
 
 This project is only a first, rudimentary step towards the full solution.
+
+Answersssss***********
+
+1. Class docs have sections like description, constructors, methods, and fields to explain how the class works.
+
+2. startsWith checks if a string starts with something; one starts at the beginning, the other at a set index.
+
+3. Yes, endsWith(String suffix) checks if a string ends with something.
+
+4. Yes, length() gives the number of characters, no parameters.
+
+5. I found them in the String class docs; it’s easy since methods are listed clearly.
+
+6. public String trim() removes spaces at the start and end, like text.trim();.
+
+7. 
